@@ -42,10 +42,8 @@ flutter pub get
 
 Ensure that the assets mentioned in pubspec.yaml are correctly placed:
 YAML
-pubspec.yaml
-# ...
-flutter:
-  uses-material-design: true
+
+--pubspec.yaml
   assets:
    - assets/images/
 The app expects image files (one.jpg, two.jpg, etc.) to be present inside the assets/images/ folder.
