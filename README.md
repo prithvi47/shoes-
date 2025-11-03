@@ -42,8 +42,7 @@ flutter pub get
 
 Ensure that the assets mentioned in pubspec.yaml are correctly placed:
 YAML
-
-# pubspec.yaml
+pubspec.yaml
 # ...
 flutter:
   uses-material-design: true
